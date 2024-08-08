@@ -3,8 +3,6 @@
 
 #### Processo responsável pela emissão de 8 a 12 faturas a cada 3 horas no StarkBank
 
-[Link do projeto](https://www.kaggle.com/roche-data-science-coalition/uncover))
-
 
 ## Funcionalidades do projeto
 
